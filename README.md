@@ -2,7 +2,7 @@
 
 <p>This is my Travel Tourism package prediction here I have used xgboost algorithm which is giving the best accuracy for my model</p>
 
-<img width="1174" height="690" alt="image" src="https://github.com/user-attachments/assets/4ab4f51d-079d-4ea1-bdf5-50b503620851" />
+<img width="1770" height="672" alt="image" src="https://github.com/user-attachments/assets/f2d8fa37-90dd-4845-9196-919b4fcaef66" />
 
 <h2>The technology I have used is </h2>
 <ul>
